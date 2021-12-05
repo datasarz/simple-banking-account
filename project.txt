@@ -1,0 +1,5 @@
+seven java classes 
+inheritance
+cascade inheritance
+functionality
+console app
